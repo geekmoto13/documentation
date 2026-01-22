@@ -59,7 +59,7 @@ For the time being please perform a manual upgrade until this issue can be resol
 ## Manual Upgrade
 
 If you prefer not to perform the automatic self-upgrade, or need to reference any upgrade steps you can follow
-the documentation below.
+the documentation below. **Please note the Steps below from Downloading update onward must be done after elevating to root by using SU**
 
 ::: warning
 If you've already performed the self-upgrade successfully you do not need to do anything else on this page.
